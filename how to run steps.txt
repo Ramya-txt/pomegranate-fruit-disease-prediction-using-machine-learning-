@@ -1,0 +1,32 @@
+how to run steps
+
+open anaconda prompt from search
+
+type 
+conda activate tf ( enter )
+
+type 
+
+cd C:\Users\User\OneDrive\Desktop\pomagranetediseaes ( enter )
+
+type 
+
+python app.py ( enter u will get ip address ctrl + click on link
+
+webiste will open ) 
+
+how to run algorihtm
+
+
+open another anaconda prompt from search
+
+type 
+conda activate tf ( enter )
+
+type 
+
+cd C:\Users\User\OneDrive\Desktop\pomagranetediseaes ( enter )
+
+type 
+
+jupyter notebook train.ipynb ( enter )
